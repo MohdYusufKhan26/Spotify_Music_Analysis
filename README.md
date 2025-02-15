@@ -1,4 +1,4 @@
-# Spotify Music Analysis Dashboard
+# Spotify Music Analysis
 
 ## Overview
 This project is a **Spotify Music Analysis Dashboard** built using **Power BI** and **Python**. It provides in-depth insights into music streaming trends, most streamed tracks, and artist performance. The data was extracted using the **Spotify Developer API** with a **Client ID and Secret ID**.
